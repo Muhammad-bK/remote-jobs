@@ -24,4 +24,4 @@ Rails, React, React Native, Electron, Postgres
 
 ## How to apply
 
-Email contact@hellobonsai.com with "Spontaneous application (Remote jobs)"
+Email contact@hellobonsai.com with "Spontaneous application (Remote jobs) or checout www.hellobonsai.com"
